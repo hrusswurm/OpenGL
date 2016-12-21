@@ -2,6 +2,7 @@
 Hannah Russwurm
 Oct. 28, 2016
 The purpose of this program is to implement a wiremesh renderer and output a vase created by reading vertex points from a text file.
+FileReader.h is the header for FileReader.cpp
 */
 
 #ifndef FILEREADER_H

@@ -2,6 +2,7 @@
 Hannah Russwurm
 Oct. 28, 2016
 The purpose of this program is to implement a wiremesh renderer and output a vase created by reading vertex points from a text file. 
+main.cpp is the interface that calls upon the other .cpp files.
 */
 
 #include <math.h>
